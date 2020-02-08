@@ -1,5 +1,5 @@
 _repo: Viaggi-di-Gulliver-nelle-lontane-regioni_61179
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: Scott, Walter
@@ -19,6 +19,9 @@ contributor:
     deathdate: 1853
     gutenberg_agent_id: '42224'
     url: http://www.gutenberg.org/2009/agents/42224
+covers:
+- cover_type: archival
+  image_path: 61179-h/images/cover.jpg
 creator:
   author:
     agent_name: Swift, Jonathan
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/326
     wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
 description: Translation of parts I, II, and III of Gulliver's Travels.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61179#Viaggi-di-Gulliver-nelle-lontane-regioni
 gutenberg_bookshelf: IT Romanzi
 gutenberg_issued: '2020-01-15'
 gutenberg_type: Text
