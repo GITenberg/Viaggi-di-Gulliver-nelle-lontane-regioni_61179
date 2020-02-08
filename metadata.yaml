@@ -1,0 +1,50 @@
+_repo: Viaggi-di-Gulliver-nelle-lontane-regioni_61179
+_version: 0.0.1
+contributor:
+  commentator:
+    agent_name: Scott, Walter
+    aliases:
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    - Malagrowther, Malachi
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+  translator:
+    agent_name: Barbieri, Gaetano
+    birthdate: 1767
+    deathdate: 1853
+    gutenberg_agent_id: '42224'
+    url: http://www.gutenberg.org/2009/agents/42224
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+description: Translation of parts I, II, and III of Gulliver's Travels.
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2020-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61179'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Gulliver, Lemuel (Fictitious character) -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcsh 'Travelers -- Fiction'
+- GITenberg
+title: Viaggi di Gulliver nelle lontane regioni
+url: http://www.gutenberg.org/ebooks/61179
